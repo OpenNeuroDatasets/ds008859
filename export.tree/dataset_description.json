@@ -1,0 +1,45 @@
+{
+    "Name": "EEG MI-BCI Multidirectional Mouse Cursor Dataset - OpenBCI recordings",
+    "BIDSVersion": "1.11.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Sayem Rafique",
+        "Zawwad Bin Saif",
+        "Saima Tasfia Roja",
+        "Shantanu Rahman",
+        "Nazmus Sakib",
+        "Rafia Akhter",
+        "Md. Kafiul Islam"
+    ],
+    "Keywords": [
+        "electroencephalography",
+        "motor imagery",
+        "brain-computer interface",
+        "mouse cursor control",
+        "neurorehabilitation"
+    ],
+    "Acknowledgements": "The authors acknowledge the Biomedical Instrumentation and Signal Processing Laboratory, Department of Electrical and Electronic Engineering, Independent University, Bangladesh, for hosting and supporting the recordings.",
+    "HowToAcknowledge": "Cite the OpenBCI source dataset: https://doi.org/10.17632/rz2jhpvhp3.2.",
+    "EthicsApprovals": [
+        "Independent University, Bangladesh IRB Exempt Review, protocol 2024-SETS-05"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.17632/rz2jhpvhp3.2"
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://data.mendeley.com/datasets/rz2jhpvhp3/2",
+            "DOI": "https://doi.org/10.17632/rz2jhpvhp3.2",
+            "Version": "2"
+        }
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "CSV-to-EEG-BIDS conversion script",
+            "Version": "2.0.0",
+            "Description": "Converted source CSV EEG columns to BrainVision float32 without filtering or resampling."
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008859.v1.0.1"
+}

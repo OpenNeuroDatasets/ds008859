@@ -1,0 +1,26 @@
+{
+  "sex": {
+    "LongName": "Phenotypic sex",
+    "Description": "The accompanying paper reports that all participants were male.",
+    "Levels": {
+      "male": "Male"
+    }
+  },
+  "age": {
+    "LongName": "Age",
+    "Description": "Participant age was not available in the supplied files.",
+    "Units": "years"
+  },
+  "handedness": {
+    "LongName": "Handedness",
+    "Description": "Participant handedness was not available in the supplied files."
+  },
+  "device": {
+    "LongName": "EEG acquisition device",
+    "Description": "Headset and acquisition board used for the participant recording."
+  },
+  "source_subject_number": {
+    "LongName": "Source participant number",
+    "Description": "Numeric identifier encoded in the supplied source filename."
+  }
+}
