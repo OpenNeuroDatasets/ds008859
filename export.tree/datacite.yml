@@ -1,0 +1,72 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Sayem Rafique
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Zawwad Bin Saif
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Saima Tasfia Roja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Shantanu Rahman
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Nazmus Sakib
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Rafia Akhter
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Md. Kafiul Islam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+    creators:
+      - name: Sayem Rafique
+        nameType: Personal
+      - name: Zawwad Bin Saif
+        nameType: Personal
+      - name: Saima Tasfia Roja
+        nameType: Personal
+      - name: Shantanu Rahman
+        nameType: Personal
+      - name: Nazmus Sakib
+        nameType: Personal
+      - name: Rafia Akhter
+        nameType: Personal
+      - name: Md. Kafiul Islam
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
