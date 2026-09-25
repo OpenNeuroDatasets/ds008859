@@ -1,0 +1,8 @@
+participant_id	sex	age	handedness	device	source_subject_number
+sub-01	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	1
+sub-02	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	2
+sub-03	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	3
+sub-04	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton with Daisy	4
+sub-05	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton with Daisy	5
+sub-06	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton with Daisy	6
+sub-07	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton with Daisy	7
